@@ -101,8 +101,8 @@ body {
     position: absolute;
     right: 0;
     bottom: 0;
-    margin-right: 700px;
-    margin-bottom: 0px;
+    margin-right: 750px;
+    margin-bottom: -50px;
 }
 
 .dragon {
@@ -122,15 +122,15 @@ body {
 .duck {
     position: absolute;
     bottom: 0;
-    margin-bottom: -50px;
-    margin-left: 580px;
+    margin-bottom: -90px;
+    margin-left: 550px;
 }
 
 .deerling {
     position: absolute;
     bottom: 0;
-    margin-bottom: -50px;
-    margin-left: 1100px;
+    margin-bottom: -80px;
+    margin-left: 1000px;
 }
 
 .bear {
@@ -145,7 +145,7 @@ body {
     height: 75px;
     position: absolute;
     bottom: 0;
-    margin-bottom: -295px;
+    margin-bottom: -267px;
     animation: nyancat 25s infinite;
 }
 
@@ -159,8 +159,8 @@ body {
     position: absolute;
     right: 0;
     bottom: 0;
-    margin-bottom: 155px;
-    margin-right: 70px;
+    margin-bottom: 145px;
+    margin-right: 150px;
 }
 
 
