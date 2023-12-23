@@ -1,0 +1,30 @@
+@import "../utils/_variables";
+
+.footer {
+    background-color: var(--second-color);
+    color: #fff;
+    text-align: center;
+    font-weight: var(--font-semi);
+    padding: 2rem 0;
+
+    &__title {
+    font-size: 2rem;
+    margin-bottom: var(--mb-4);
+    }
+
+    &__social {
+    margin-bottom: var(--mb-4);
+
+        &__link {
+            text-decoration: none;
+
+            &__svg {
+            font-size: 1.5rem;
+            fill: #fff;
+            margin: 1rem;
+            width: 23px;
+            height: 23px;
+            }
+        }
+    }
+}
